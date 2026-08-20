@@ -4,4 +4,4 @@ for i in range(1,n):
         print("Prime")
         break
     else:
-        print("Not Prime")  
+        print("Not Prime") 
