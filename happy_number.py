@@ -1,7 +1,5 @@
 n=19
-number=set()
-while n!=1 and n not in number:
-    number.add(n)
+while n<=0:
     total=0
     while n>0:
         digit=n%10
